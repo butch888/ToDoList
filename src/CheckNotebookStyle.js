@@ -1,13 +1,3 @@
-const Container = {
-    width: '43%',
-    display: 'flex',
-    justifyContent: 'space-around',
-    margin: '10px auto',
-    padding: '10px',
-    backgroundColor: '#d4cfcf3b',
-    borderRadius: '5px',
-    boxShadow: '5px 5px 20px'
-}
 const Button = {
     marginRight: '10px'
 }
