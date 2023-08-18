@@ -1,3 +1,15 @@
+Список задач и блокнот на React.js
+
+Список задач с возможностью добавления, редактирования, удаления задач и возможностью отметить задачу выполненной. Данные сохраняются в localStorage, при повторном заходе на страницу или обновлении страницы, данные сохраняются.
+
+Блокнот с возможностью просмотра и редактирования записей, а также поиск записей.
+
+Стилизация для наглядности смешенная: 
+1. Общие CSS стили;
+2. Inline Styles
+3. Styles Components
+4. Modyles CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
